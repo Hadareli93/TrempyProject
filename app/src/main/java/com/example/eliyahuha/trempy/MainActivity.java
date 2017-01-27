@@ -10,7 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //thetjh
-        //lkj
+        // Hadar Check 27/1
     }
 }
